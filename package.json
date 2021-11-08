@@ -19,8 +19,8 @@
       "pre-commit": "npm run lint && npm run test"
     }
   },
-  "main": "dist/lego-bricks.umd.js",
-  "module": "dist/lego-bricks.esm.js",
+  "main": "dist/logo-components.umd.js",
+  "module": "dist/logo-components.esm.js",
   "files": [
     "dist"
   ],
@@ -58,7 +58,7 @@
   "peerDependencies": {
     "vue": "^3.0.0"
   },
-  "homepage": "https://github.com/imooc-lego/lego-components",
+  "homepage": "https://github.com/shdulu/logo-components",
   "keywords": [
     "Component",
     "UI",
@@ -67,7 +67,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imooc-lego/lego-components"
+    "url": "https://github.com/shdulu/logo-components"
   },
   "types": "dist/index.d.ts"
 }
